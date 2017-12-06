@@ -6,9 +6,9 @@ permalink:           pretty
 
 # Setup
 title:               Lei Shi Blog
-tagline:             'Hack, tech and everything else'
-description:         'Notes and thoughts by Lei Shi'
-url:                 http://lanyon.getpoole.com
+tagline:             'hack, tech and everything else'
+description:         'Tech notes by Lei Shi'
+url:                 http://leisus.github.io
 baseurl:             ''
 gems: [jekyll-paginate]
 paginate:            5
@@ -22,9 +22,9 @@ pages:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Lei Shi
+  url:               http://leisus.github.io
+  # email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
