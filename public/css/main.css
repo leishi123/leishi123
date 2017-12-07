@@ -1,3 +1,63 @@
+
+/*****************************************************************************/
+/*
+/* Container
+/*
+/* Liquid layout (specify widths in %)
+/*
+/*****************************************************************************/
+
+@media (min-width: 38em) {
+  .container {
+    max-width: 85%;
+    margin-left: 7%;
+  }
+}
+@media (min-width: 56em) {
+  .container {
+    max-width: 85%;
+    margin-left: 7%;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+h5 {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+
+h6 {
+  margin-top: 1rem;
+  font-size: 0.75rem;
+}
+
+code {
+  padding: .20em .20em;
+  background-color: #eeeeee;
+  border-radius: 3px;
+  font-size: 100%;
+}
+
+pre {
+  white-space: pre;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  overflow: auto;
+}
+
+pre code {
+  color: #101010;
+  font-size: 95%;
+}*/
+
+
 /*****************************************************************************/
 /*
 /* Tags

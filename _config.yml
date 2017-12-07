@@ -14,6 +14,10 @@ gems: [jekyll-paginate]
 paginate:            5
 paginate_path: "page:num"
 
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
 # Pages
 pages:
   Archive: '/archive'
