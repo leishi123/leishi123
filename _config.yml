@@ -14,6 +14,8 @@ gems: [jekyll-paginate]
 paginate:            5
 paginate_path: "page:num"
 
+disqus: 'https-leisus-github-io'
+
 # Dependencies
 markdown:            kramdown
 # kramdown:
