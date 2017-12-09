@@ -16,6 +16,9 @@ paginate_path: "page:num"
 
 # Dependencies
 markdown:            kramdown
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
 highlighter:         rouge
 
 # Pages
