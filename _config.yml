@@ -14,12 +14,14 @@ gems: [jekyll-paginate]
 paginate:            5
 paginate_path: "page:num"
 
+
 disqus: 'https-leisus-github-io'
 
 # Dependencies
 markdown:            kramdown
-# kramdown:
-#   input: GFM
+kramdown:
+  input: GFM
+  math_engine: mathjax
 #   hard_wrap: false
 highlighter:         rouge
 
