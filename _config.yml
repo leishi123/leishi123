@@ -8,17 +8,19 @@ permalink:           pretty
 title:               Lei Shi Blog
 tagline:             'hack, tech and everything else'
 description:         'Tech notes by Lei Shi'
-url:                 http://leisus.github.io
+url:                 http://leishi123.github.io
 baseurl:             ''
 gems: [jekyll-paginate]
 paginate:            5
 paginate_path: "page:num"
 
 # Google Analytics
-google_analytics: UA-110925848-1
+# google_analytics: UA-110925848-1
+google_analytics: UA-111664396-1
 
 # disqus
-disqus: 'https-leisus-github-io'
+# disqus: 'https-leisus-github-io'
+disqus: 'https-leishi123-github-io'
 
 # Dependencies
 markdown:            kramdown
@@ -37,7 +39,7 @@ pages:
 # About/contact
 author:
   name:              Lei Shi
-  url:               http://leisus.github.io
+  url:               http://leishi123.github.io
   # email:             markdotto@gmail.com
 
 # Custom vars

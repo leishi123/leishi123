@@ -2,21 +2,5 @@
 layout: page
 title: About
 ---
-<!-- permalink: /about/
-show_meta: true
-# imagefeature path is relative to images/ directory.
-imagefeature: foo.png
-published: true
-description: "About example.com...."
-category: views
-comments: false
-mathjax: false
-noindex: false
-sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
-    lastmod: 2016-02-13
-# tags will be used as html meta keywords.    
-tags:
-  - "foo boo"
-  - "city tx" -->
+
+Hello! I am Lei Shi, a physicist and working in the field of interdisciplinary R&D. I am a big fan of sci-fi, and enthusiastic about robots and automation. This blog is used to document what I have learned and experienced, and some of my thoughts on everything else. I hope you will find something helpful.
